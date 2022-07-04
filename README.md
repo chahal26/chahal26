@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 , I am Sahil Chahal
+
+[![](https://komarev.com/ghpvc/?username=dev-chahal&color=blue&label=Profile%20Views)](https://github.com/dev-chahal/dev-chahal)
+[![](https://img.shields.io/github/followers/dev-chahal?label=GitHub%20Followers)](https://github.com/dev-chahal)
 
 <!--
 **dev-chahal/dev-chahal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
