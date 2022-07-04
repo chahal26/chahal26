@@ -11,3 +11,7 @@ I'm a Full Stack Web Developer.
 &ensp;<a href="https://www.instagram.com/__chahal_01"><img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" title="Instagram" alt="Sahil Chahal Instagram profile" width="30"/></a>
 &ensp;<a href="https://github.com/dev-chahal"><img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" title="GitHub" alt="Sahil Chahal GitHub profile" width="30"/></a>
 <br>
+
+## ⚡ Github Stats
+
+![Marko Denic's Github Stats](https://github-readme-stats.vercel.app/api?username=dev-chahal&theme=dark)
