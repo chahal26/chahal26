@@ -14,7 +14,7 @@ I'm a Full Stack Web Developer.
 
 ## ⚡ Github Stats
 
-![Marko Denic's Github Stats](https://github-readme-stats.vercel.app/api?username=dev-chahal&theme=dark)
+![Maverick's Github Stats](https://github-readme-stats.vercel.app/api?username=dev-chahal&theme=dark)
 
 ### Let's Connect 🔗
 
