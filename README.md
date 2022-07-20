@@ -1,10 +1,11 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi!+👋+I'm+Sahil+Chahal+💻;I+am+a+Full+Stack+Web+Developer+⚡)](https://git.io/typing-svg)
 
-Hi! 👋 I'm [Sahil Chahal](https://twitter.com/devsahilchahal)
-
 [![](https://komarev.com/ghpvc/?username=dev-chahal&color=blue&label=Profile%20Views)](https://github.com/dev-chahal/dev-chahal)
 [![](https://img.shields.io/github/followers/dev-chahal?label=GitHub%20Followers)](https://github.com/dev-chahal)
 
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=php,js,ts,laravel,wordpress,angular,react,redux,nextjs,jquery,html,css,bootstrap,materialui,mongodb,mysql,git,docker,nginx,linux,aws,azure&perline=11)](https://skillicons.dev)
 
 ### Let's Connect 🔗 
 
