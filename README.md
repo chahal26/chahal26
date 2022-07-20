@@ -5,19 +5,17 @@
 
 I'm a Full Stack Web Developer.
 
-<!-- Socials -->
-<a href="https://twitter.com/devsahilchahal"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Sahil Chahal Twitter profile" width="40"/></a>
-&ensp;<a href="https://www.linkedin.com/in/sahil-chahal-2729b7217/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Sahil Chahal Linkedin account" width="30"/></a>
-&ensp;<a href="https://www.instagram.com/__chahal_01"><img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" title="Instagram" alt="Sahil Chahal Instagram profile" width="30"/></a>
-&ensp;<a href="https://github.com/dev-chahal"><img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" title="GitHub" alt="Sahil Chahal GitHub profile" width="30"/></a>
+### Let's Connect 🔗 
+
+<a href="https://twitter.com/devsahilchahal" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt=" Maverick Twitter"></a>
+<a href="https://www.linkedin.com/in/sahil-chahal-2729b7217/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="Maverick LinkedIn"></a>
+<a href="https://www.instagram.com/__chahal_01/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Maverick Instagram"></a>
+<a href="https://www.facebook.com/sahil.chahal.3572" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt=" Maverick Facebook"></a>
+
+
 <br>
 
 ## ⚡ Github Stats
 
 ![Maverick's Github Stats](https://github-readme-stats.vercel.app/api?username=dev-chahal&include_all_commits=true&count_private=true&show_icons=true&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40)
 
-### Let's Connect 🔗
-
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/sahil-chahal-2729b7217/)
-[![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/devsahilchahal) 
-[![](https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=8a3ab9)](https://www.instagram.com/__chahal_01/)
