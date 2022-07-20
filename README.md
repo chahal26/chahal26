@@ -3,11 +3,11 @@
 [![](https://komarev.com/ghpvc/?username=dev-chahal&color=blue&label=Profile%20Views)](https://github.com/dev-chahal/dev-chahal)
 [![](https://img.shields.io/github/followers/dev-chahal?label=GitHub%20Followers)](https://github.com/dev-chahal)
 
-### Skills 🎯
+## Skills 🎯
 
 [![My Skills](https://skillicons.dev/icons?i=php,js,ts,laravel,wordpress,angular,react,redux,nextjs,jquery,html,css,bootstrap,materialui,mongodb,mysql,git,docker,nginx,linux,aws,azure&perline=11)](https://skillicons.dev)
 
-### Let's Connect 🔗 
+## Let's Connect 🔗 
 
 <a href="https://twitter.com/devsahilchahal" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt=" Maverick Twitter"></a>
 <a href="https://www.linkedin.com/in/sahil-chahal-2729b7217/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="Maverick LinkedIn"></a>
