@@ -1,11 +1,11 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi!+👋+I'm+Sahil+Chahal+💻;I+am+a+Full+Stack+Web+Developer+⚡)](https://git.io/typing-svg)
 
-[![](https://komarev.com/ghpvc/?username=dev-chahal&color=blue&label=Profile%20Views)](https://github.com/dev-chahal/dev-chahal)
-[![](https://img.shields.io/github/followers/dev-chahal?label=GitHub%20Followers)](https://github.com/dev-chahal)
+[![](https://komarev.com/ghpvc/?username=chahal26&color=blue&label=Profile%20Views)](https://github.com/chahal26)
+[![](https://img.shields.io/github/followers/chahal26?label=GitHub%20Followers)](https://github.com/chahal26)
 
 ## Skills 🎯
 
-[![My Skills](https://skillicons.dev/icons?i=php,js,ts,laravel,wordpress,angular,react,redux,nextjs,jquery,html,css,bootstrap,materialui,mongodb,mysql,git,docker,nginx,linux,aws,azure&perline=11)](https://github.com/dev-chahal)
+[![My Skills](https://skillicons.dev/icons?i=php,js,ts,laravel,wordpress,angular,react,redux,nextjs,jquery,html,css,bootstrap,materialui,mongodb,mysql,git,docker,nginx,linux,aws,azure&perline=11)](https://github.com/chahal26)
 
 ## Let's Connect 🔗 
 
@@ -19,9 +19,9 @@
 
 ## Github Stats 📈
 
-![Maverick's Github Stats](https://github-readme-stats.vercel.app/api?username=dev-chahal&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&hide=stars)
+![Maverick's Github Stats](https://github-readme-stats.vercel.app/api?username=chahal26&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&hide=stars)
 
 ## Github Streak ⚡
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-chahal&theme=tokyonight" alt="mystreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chahal26&theme=tokyonight" alt="mystreak"/>
 
