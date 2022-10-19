@@ -19,7 +19,7 @@
 
 ## Github Stats 📈
 
-![Maverick's Github Stats](https://github-readme-stats.vercel.app/api?username=chahal26&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&hide=stars)
+![Maverick's Github Stats](https://github-readme-stats.vercel.app/api?username=chahal26&include_all_commits=true&count_private=true&show_icons=true&hide=stars&theme=tokyonight)
 
 ## Github Streak ⚡
 
