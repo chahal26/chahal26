@@ -5,7 +5,7 @@
 
 ## Skills 🎯
 
-[![My Skills](https://skillicons.dev/icons?i=php,js,ts,laravel,wordpress,angular,react,redux,nextjs,jquery,html,css,bootstrap,materialui,mongodb,mysql,git,docker,nginx,linux,aws,azure&perline=11)](https://github.com/chahal26)
+[![My Skills](https://skillicons.dev/icons?i=php,js,ts,laravel,wordpress,angular,react,redux,nextjs,jquery,html,css,bootstrap,materialui,mongodb,mysql,git,docker,nginx,linux,aws,azure,alpinejs,bash,discord,md,vite,tailwind&perline=14)](https://github.com/chahal26)
 
 ## Let's Connect 🔗 
 
